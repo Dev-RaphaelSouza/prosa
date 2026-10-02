@@ -1,0 +1,12 @@
+{
+  "name": "Prosa",
+  "short_name": "Prosa",
+  "description": "Conversa, voz, vídeo e um navegador pra usar junto com os amigos.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#11131b",
+  "theme_color": "#11131b",
+  "lang": "pt-BR",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

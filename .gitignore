@@ -1,0 +1,13 @@
+node_modules
+dist
+data
+*.log
+.env
+.env.*
+.DS_Store
+
+# O launcher é compilado localmente (launcher/build.ps1): só o código-fonte entra no repositório.
+Prosa.exe
+Prosa.old.exe
+launcher/prosa.ico
+launcher/prosa.png
